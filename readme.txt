@@ -3,5 +3,10 @@ test2
 test3
 test4
 test5
+<<<<<<< HEAD
 test6
 test7
+=======
+test6
+test7
+>>>>>>> fenzhi
